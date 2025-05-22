@@ -1,2 +1,6 @@
-[Home](/#/)
-[About](profile.md)
+[トップ](/#/)
+[わたしについて](profile.md)
+[学びとAI協働](ai.md)
+[ミニマルな暮らし](minimal.md)
+[学習の記録](learning.md)
+[作業日報](dailyreport.md)
