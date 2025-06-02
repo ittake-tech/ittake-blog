@@ -3,3 +3,4 @@
 - [AIメモ](ai.md)
 - [ミニマルライフ](minimal.md)
 - [パーマカルチャー](permaculture.md)
+- [作業日報](dailyreport.md)
