@@ -1,13 +1,13 @@
 # Blog
 
-- はじめに
-  - [このブログについて](index.md)
-  - [プロフィールと暮らしの理想](profile.md)
+## このブログについて
+- [このブログについて](index.md)
+- [プロフィール](profile.md)
 
-- スマホ×AIの活用記録
-  - [暮らしに活かすAIメモ](ai.md)
+## AI × 暮らし
+- [AIメモ](ai.md)
 
-- 日々の気づきと実践
-  - [ミニマルライフログ](minimal.md)
-  - [パーマカルチャーの記録](permaculture.md)
-  - [作業日報](dailyreport.md)
+## 日々の記録
+- [ミニマルライフ](minimal.md)
+- [パーマカルチャー](permaculture.md)
+- [作業日報](dailyreport.md)
