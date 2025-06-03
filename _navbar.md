@@ -1,2 +1,2 @@
-[me](profile.md)
-[blog](blog.md)
+[me](docs/profile.md)
+[blog](docs/blog.md)
