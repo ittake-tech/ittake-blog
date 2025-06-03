@@ -1,3 +1,3 @@
 # AIメモ
 
-- [ChatGPT Plusを導入してみて](plus-plan.md)
+- [ChatGPT Plusを導入してみて](docs/ai/plus-plan.md)
