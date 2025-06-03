@@ -1,6 +1,6 @@
 # Blog
 
-- [AIメモ](docs/ai.md)
-- [ミニマルライフ](docs/minimal.md)
-- [パーマカルチャー](docs/permaculture.md)
-- [作業日報](docs/dailyreport.md)
+- [AIメモ](ai.md)
+- [ミニマルライフ](minimal.md)
+- [パーマカルチャー](permaculture.md)
+- [作業日報](dailyreport.md)
