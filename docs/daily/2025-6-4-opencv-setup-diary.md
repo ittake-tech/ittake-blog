@@ -17,18 +17,18 @@ Pythonで画像認識を学ぶため、OpenCVをmacOSにインストールする
 ## 🔧 試した手順（ターミナル操作）
 
 1. Homebrew で Python をインストール
-brew install python
+- brew install python
 
 2. pip3 が使えるか確認
-python3 --version
-pip3 --version
+- python3 --version
+- pip3 --version
 
 3. OpenCV のインストールに挑戦
-pip3 install opencv-python
+- pip3 install opencv-python
 
 4. ビルドエラーが発生 → 対処法として以下も実施
-pip3 install cmake
-pip3 install --upgrade setuptools wheel numpy
+- pip3 install cmake
+- pip3 install --upgrade setuptools wheel numpy
 
 5. それでもビルド失敗 → `opencv-python-headless` も試すが同様にエラー
 
