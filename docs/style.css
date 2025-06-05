@@ -1,0 +1,20 @@
+/* style.css */
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+  line-height: 1.7;
+}
+
+.app-name {
+  color: #4CAF50; /* Docsifyのロゴの色 */
+}
+
+.sidebar {
+  background-color: #ffffff;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar-nav a:hover {
+  color: #4CAF50;
+}
